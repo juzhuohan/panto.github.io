@@ -1,11 +1,11 @@
 ---
-title: 加密算法概述与替代趋势
+title: 加密算法概述与替代趋势2
 date: 2024-11-16
 tags:
-   - 加密算法
+   - Git
 categories:
-   - 加密算法
-feature: false
+   - Git
+feature: true
 ---
 ## 1. 对称加密算法
 对称加密算法使用同一密钥进行加密和解密，通常用于快速处理大规模数据的场景。
